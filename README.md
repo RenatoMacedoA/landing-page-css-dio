@@ -64,7 +64,7 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 Você pode acessar o projeto online pelo GitHub Pages:
 
-👉 *(adicione o link aqui depois)*
+👉 https://renatomacedoa.github.io/landing-page-css-dio/
 
 ---
 
